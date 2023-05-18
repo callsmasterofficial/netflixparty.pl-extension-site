@@ -1,6 +1,6 @@
-export default {
+const config = {
   siteName: 'Netflix Party',
-  url: 'http://netflixparty.pl',
+  url: 'https://netflixpartys.pl/',
   blogUrl: '/blog',
   siteId: '62a8661792c68b0d2f1e40a4',
   extLink: {
@@ -167,3 +167,4 @@ export default {
       'Netflix Party umożliwia oglądanie serwisu Netflix z przyjaciółmi online. Zainstaluj rozszerzenie, aby zsynchronizować odtwarzanie wideo.',
   },
 }
+export default config

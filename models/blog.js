@@ -1,9 +1,10 @@
-const mongoose = require("mongoose");
+import mongoose from 'mongoose'
+import BlogCat from './blogCategory'
 
 const blogSchema = mongoose.Schema(
   {
     _id: { type: mongoose.Schema.Types.ObjectId, auto: true },
-    site: { type: mongoose.Schema.Types.ObjectId, ref: "Site", required: true },
+    site: { type: mongoose.Schema.Types.ObjectId, ref: 'Site', required: true },
     title: { type: String, required: true },
     slug: { type: String, required: true },
     description: { type: String },
@@ -14,15 +15,15 @@ const blogSchema = mongoose.Schema(
     meta_keywords: { type: String },
     tags: { type: Array },
     cat: [
-      { type: mongoose.Schema.Types.ObjectId, ref: "BlogCat", required: true },
+      { type: mongoose.Schema.Types.ObjectId, ref: BlogCat, required: true },
     ],
-    status: { type: String, default: "active" },
+    status: { type: String, default: 'active' },
   },
-  { timestamps: true, collection: "blogs" }
-);
+  { timestamps: true, collection: 'blogs' }
+)
 
 const Blog =
   (mongoose.models && mongoose.models.Blog) ||
-  mongoose.model("Blog", blogSchema);
+  mongoose.model('Blog', blogSchema)
 
-module.exports = Blog;
+module.exports = Blog
