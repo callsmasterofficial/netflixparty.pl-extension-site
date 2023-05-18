@@ -10,8 +10,7 @@ export async function getStaticProps() {
   return {
     props: {
       meta: {
-        title:
-          'Netflix Party - obejrzyjmy razem | Zainstaluj rozszerzenie teraz',
+        title: 'Netflix', // Party - obejrzyjmy razem | Zainstaluj rozszerzenie teraz
         description:
           'Netflix Party umożliwia oglądanie serwisu Netflix z przyjaciółmi online. Zainstaluj rozszerzenie, aby zsynchronizować odtwarzanie wideo.',
         keywords:

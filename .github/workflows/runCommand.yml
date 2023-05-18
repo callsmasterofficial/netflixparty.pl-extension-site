@@ -19,3 +19,4 @@ jobs:
             cd /var/www/multiSite/netflixpartys.pl
             sudo npm i
             sudo npm run build
+            sudo pm2 restart 99
