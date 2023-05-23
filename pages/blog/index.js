@@ -32,7 +32,7 @@ export async function getStaticProps() {
           title: 'Blog - Netflix Party',
           description: '',
           keywords: '',
-          pageUrl: 'https://www.netflixparty.pl/blog',
+          pageUrl: 'https://www.netflixpartys.pl/blog',
           featuredImage: '',
         },
         data,

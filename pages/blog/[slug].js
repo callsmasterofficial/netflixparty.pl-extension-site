@@ -28,7 +28,7 @@ export async function getStaticProps({ params: { slug } }) {
           title: data.title,
           description: data.meta_description,
           keywords: data.meta_keywords,
-          pageUrl: `https://www.netflixparty.pl${siteConfig.blogUrl}/${slug}`,
+          pageUrl: `https://www.netflixpartys.pl${siteConfig.blogUrl}/${slug}`,
           featuredImage: data.featured_image,
         },
         data,
