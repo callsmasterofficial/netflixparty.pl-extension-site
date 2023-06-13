@@ -11,9 +11,9 @@ export async function getStaticProps() {
     props: {
       meta: {
         title:
-          'Netflix Party - obejrzyjmy razem | Zainstaluj rozszerzenie teraz',
+          'Netflix Party Extension - Enjoy stream & chat in real-time sync    ',
         description:
-          'Netflix Party umożliwia oglądanie serwisu Netflix z przyjaciółmi online. Zainstaluj rozszerzenie, aby zsynchronizować odtwarzanie wideo.',
+          'Netflix Party, a perfect plugin enlightening with video playback, chatting & more in real-time sync feature to enlighten your boring empty time by gathering friends.  ',
         keywords:
           'Netflix Party, Netflix Watch Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, How to do Netflix Party, How to use Netflix Party, How to do a Netflix Party, Netflix Watch Party Extension',
         pageUrl: 'https://www.netflixpartys.pl/',
