@@ -48,13 +48,13 @@ function Footer() {
               {siteConfig.footer.tags.map((item, index) => {
                 if (index == 0 || index == 1) {
                   return (
-                    <a
+                    <span
                       href={siteConfig.url}
                       className="pr-2"
                       key={`tags-${index}`}
                     >
                       {item},
-                    </a>
+                    </span>
                   )
                 } else {
                   return <span key={`tags-${index}`}>{item},</span>

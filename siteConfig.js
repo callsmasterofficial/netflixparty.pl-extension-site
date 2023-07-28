@@ -15,7 +15,7 @@ const config = {
     first: {
       heading: 'NETFLIX PARTY ZAPRASZAM DO WATCH PARTY',
       html: `
-      Netflix zdobył swoje wyjątkowe miejsce w sercach wszystkich jako godna podziwu i doceniana internetowa platforma streamingowa. Od lat świadczy te wszystkie niesamowite usługi. Netflix działa najlepiej, szczególnie dla tych, którzy lubią oglądać filmy, programy, filmy dokumentalne, seriale itp. Taktownie, w tym zabieganym świecie, większość ludzi nie chciałaby zakłócać swoich spokojnych godzin podczas odwiedzania kin w celu oglądania filmów i programów. Co więcej, po całym dniu pracy w biurze ludzie nie mają siły na robienie dodatkowych rzeczy. <br/> Co więcej, pod koniec dnia pragnienie spędzenia wieczoru filmowego w domowym miejscu wraz z zdrową rozmową i pogawędką z przyjaciółmi, rodziną i bliskimi jest częścią ludzkiej natury. Tak więc, aby wypełnić te pożądane myśli, możesz użyć rozszerzenia <a href="http://netflixpartys.pl"><b><u>Netflix Party</b></u></a>, które jest darmowym rozszerzeniem przeglądarki do oglądania filmów i programów w trybie zdalnym, a nawet cieszenia się z przyjaciółmi i rodziną. Dodatkowo, jeśli chodzi o to, jak możemy udostępniać tutaj te same filmy i programy, rozszerzenie Netflix Party odgrywa kluczową rolę. Udostępniając adres URL imprezy Netflix znajomym i rodzinie, będziesz mógł oglądać filmy i programy telewizyjne w tym samym standardzie HD.
+      Netflix zdobył swoje wyjątkowe miejsce w sercach wszystkich jako godna podziwu i doceniana internetowa platforma streamingowa. Od lat świadczy te wszystkie niesamowite usługi. Netflix działa najlepiej, szczególnie dla tych, którzy lubią oglądać filmy, programy, filmy dokumentalne, seriale itp. Taktownie, w tym zabieganym świecie, większość ludzi nie chciałaby zakłócać swoich spokojnych godzin podczas odwiedzania kin w celu oglądania filmów i programów. Co więcej, po całym dniu pracy w biurze ludzie nie mają siły na robienie dodatkowych rzeczy. <br/><br/> Co więcej, pod koniec dnia pragnienie spędzenia wieczoru filmowego w domowym miejscu wraz z zdrową rozmową i pogawędką z przyjaciółmi, rodziną i bliskimi jest częścią ludzkiej natury. Tak więc, aby wypełnić te pożądane myśli, możesz użyć rozszerzenia <a href="http://netflixpartys.pl"><b><u>Netflix Party</b></u></a>, które jest darmowym rozszerzeniem przeglądarki do oglądania filmów i programów w trybie zdalnym, a nawet cieszenia się z przyjaciółmi i rodziną. Dodatkowo, jeśli chodzi o to, jak możemy udostępniać tutaj te same filmy i programy, rozszerzenie Netflix Party odgrywa kluczową rolę. Udostępniając adres URL imprezy Netflix znajomym i rodzinie, będziesz mógł oglądać filmy i programy telewizyjne w tym samym standardzie HD.
       `,
       video:
         'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4',
@@ -161,7 +161,7 @@ const config = {
     tags: [
       'Netflix Party',
       'Netflix Watch Party',
-      'Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, How to do Netflix Party',
+      'rozszerzenie Netflix Party, rozszerzenie Netflix Party Chrome, Watch Party Netflix, jak zrobić Netflix Party, jak korzystać z Netflix Party, jak zrobić Netflix Party, rozszerzenie Netflix Watch Party',
     ],
     disclaimer:
       'Netflix Party umożliwia oglądanie serwisu Netflix z przyjaciółmi online. Zainstaluj rozszerzenie, aby zsynchronizować odtwarzanie wideo.',
