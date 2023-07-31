@@ -22,7 +22,7 @@ function Text() {
         <div className="innner-text-container m-auto -mt-[20px]  w-[80%] md:mt-0 md:flex">
           <div className="paragraph-box w-[100%] md:w-[50%]">
             <div
-              className="p-tag primary_text_color mb-[28px] mr-[20px] p-[4px] font-normal"
+              className="p-tag primary_text_color mb-[28px] mr-[20px] p-[4px] text-justify font-normal"
               dangerouslySetInnerHTML={{
                 __html: siteConfig.section.first.html,
               }}
