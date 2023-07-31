@@ -66,7 +66,7 @@ function Footer() {
 
         <div className="popu_search_box  flex items-center justify-center p-2">
           <span className="span  flex items-center">
-            <h4 className="mr-1 text-base text-white">Disclaimer</h4>
+            <h4 className="mr-1 text-base font-bold text-white">Disclaimer</h4>
             <span className="mr-1 text-white">:</span>
             <p className="text-base text-white">
               {siteConfig.footer.disclaimer}
