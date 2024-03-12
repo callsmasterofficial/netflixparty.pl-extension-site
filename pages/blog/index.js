@@ -6,10 +6,13 @@ import Footer from '../../components/Footer'
 import db from '../../config/db'
 import Blog from '../../models/blog'
 import siteConfig from '../../siteConfig'
+import { getHome, getallmeta } from '../../locale'
 
 const site = siteConfig.siteId
 
-export async function getStaticProps() {
+export async function getStaticProps({ locale }) {
+  const home = getHome(locale)
+  const allmeta = getallmeta(locale)
   try {
     await db()
     const blogsRaw = await Blog.find(
@@ -28,10 +31,12 @@ export async function getStaticProps() {
     // };
     return {
       props: {
+        home,
+        allmeta,
         meta: {
-          title: 'Blog - Netflix Party',
-          description: '',
-          keywords: '',
+          title: allmeta.blogMetatitle,
+          description: allmeta.blogMetadescription,
+          keywords: allmeta.homeMetakeywords,
           pageUrl: 'https://www.netflixpartys.pl/blog',
           featuredImage: '',
         },
@@ -47,13 +52,13 @@ export async function getStaticProps() {
   }
 }
 
-function blog({ data }) {
+function blog({ data, home = {} }) {
   return (
     <div className="blogpage">
-      <Navbar />
-      <Banner />
+      <Navbar installBtn={home.header.installBtn} />
+      <Banner heading={home.header.navBarHeading} />
       <Blogimg data={data} />
-      <Footer />
+      <Footer installBtn={home.header.installBtn} footer={home.footer} />
     </div>
   )
 }

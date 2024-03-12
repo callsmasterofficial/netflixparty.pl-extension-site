@@ -1,0 +1,122 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Legge til", "free": "Det er gratis" },
+    "navBarHeading": "er nå tilgjengelig på Google Chrome, Microsoft Edge og Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX PARTY INVITERER DEG TIL EN SE-FEST",
+      "html": "Netflix har fortjent sin unike plass i hjertene til alle som en beundringsverdig og anerkjent online streamingplattform. I årevis har det levert alle disse fantastiske tjenestene. Netflix fungerer best, spesielt for de som liker å se filmer, serier, dokumentarer, serier osv. I denne travle verden vil de fleste ikke forstyrre deres fredelige timer ved å gå på kino for å se filmer og serier. Dessuten, etter en dags arbeid på kontoret, har folk ikke energi til ekstra aktiviteter. <br/><br/> Videre, på slutten av dagen, er ønsket om å tilbringe en filmkveld hjemme med sunn samtale og chat med venner, familie og kjære en del av menneskets natur. Så for å oppfylle disse ønskede tankene kan du bruke utvidelsen <a href=\"http://netflixpartys.pl\"><b><u>Netflix Party</b></u></a>, som er en gratis nettleserutvidelse for å se filmer og programmer eksternt, og til og med nyte med venner og familie. I tillegg, når det gjelder å dele de samme filmene og seriene, spiller Netflix Party-utvidelsen en avgjørende rolle. Ved å dele nettadressen til Netflix Party-festen med venner og familie, vil du kunne se filmer og TV-serier i samme HD-kvalitet.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Installasjon av utvidelse",
+      "subHeading": "Det første trinnet er å laste ned utvidelsen, som du kan gjøre ved å klikke her. I tillegg, for å laste ned utvidelsen, må du ha Google Chrome eller Microsoft Edge-nettleseren på enheten din. Utvidelsen er kompatibel med enheter som kjører Windows, macOS og Chromebook. Først da kan du installere Netflix Party-utvidelsen for å være vert for og bli med på en se-fest.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Fest utvidelsen",
+          "answer": "Når du ser knappen på siden av nettleserens adresselinje, fester du Netflix Party-utvidelsen til verktøylinjen. Hvis det ikke vises, klikk på puslespillikonet øverst til høyre i nettleseren. Der finner du ikonet for å feste det til verktøylinjen."
+        },
+        {
+          "id": "2",
+          "question": "innlogging kreves",
+          "answer": "Deretter krever det at du logger på Netflix-kontoen din og oppretter en Netflix-fest. I tillegg må gjestene ha sitt eget Netflix-abonnement for å bli med på se-festen."
+        },
+        {
+          "id": "3",
+          "question": "Søk, start og synkroniser",
+          "answer": "Etter å ha logget inn, kan du søke og velge filmer for se-festen, og til og med begynne å strømme dem. Sett deretter videoen på pause etter strømming i noen sekunder, noe som er et nøkkeltrinn i organiseringen av se-festen."
+        },
+        {
+          "id": "4",
+          "question": "Arranger en Netflix-fest",
+          "answer": "Klikk nå utvidelsesknappen som er festet til verktøylinjen. Et vindu 'CREATE A WATCH PARTY' vil vises med 'START A PARTY'-knappen. Så for å arrangere en Netflix-fest, klikk på denne knappen. Så kopier og del invitasjonslenken til Netflix Party med dine favoritter."
+        },
+        {
+          "id": "5",
+          "question": "Bli med på Watch Party",
+          "answer": "Personen som blir med i vaktselskapet bør først installere utvidelsen og feste den til verktøylinjen. Deretter krever det å logge på Netflix-kontoen deres og fortsette ved å klikke på invitasjons-URLen sendt av festverten."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Netflix-festfunksjoner",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tilkoblet og synkronisert",
+          "answer": "Som Netflix opererer på en synkronisert måte; dermed kan du koble til og strømme globalt. Dessuten spiller det ingen rolle hvor langt du er fra vennene dine. I tillegg kan du koble til og strømme med venner ved å bruke utvidelsen."
+        },
+        {
+          "id": "t2",
+          "question": "Tilpasning av profil",
+          "answer": "Du kan tilpasse profilen din på forskjellige måter. For eksempel å forbedre pseudonymet og bruke et ikon for å gi en personlig karakter til Netflix Party og samtaler. Disse tingene vil dukke opp under gruppechat og se-fester."
+        },
+        {
+          "id": "t3",
+          "question": "Forbedring av HD-videokvalitet",
+          "answer": "I denne funksjonen vil du oppleve lovende HD-videostreaming. Hver gang du arrangerer en Netflix-fest, vil opplevelsene dessuten være de samme."
+        },
+        {
+          "id": "t4",
+          "question": "Verdensomspennende streaming",
+          "answer": "Netflix-separty er tilgjengelig over hele verden. Her kan du streame filmer og serier med venner og familie, selv om de bor utenfor grensene, ved å bruke Netflix Party Extension. Dessuten kan du arrangere en klokkefest for å skape uforglemmelige øyeblikk."
+        },
+        {
+          "id": "t5",
+          "question": "Ubegrenset samling",
+          "answer": "Du vil bli glad for å høre dette, siden du kan legge til og invitere opptil 100 medlemmer. Men nå er det mye mer verdsatt å være synkronisert med mange mennesker enn noe annet."
+        },
+        {
+          "id": "t6",
+          "question": "Rask lasting",
+          "answer": "Det fungerer raskt hvis vi laster det ved hjelp av party-utvidelsen. Ingen bufring vil forårsake hindringer og problemer, og strømming vil være jevn og uavbrutt."
+        },
+        {
+          "id": "t7",
+          "question": "Engasjement og gruppechatter",
+          "answer": "Denne nettplattformen, Netflix Party, tilbyr også et live chat-alternativ sammen med å se filmer og serier. Og dette forbedrer seernes strømmeopplevelser under en filmkveld."
+        },
+        {
+          "id": "t8",
+          "question": "Adgangskontroll",
+          "answer": "Hvis du er vert for Netflix Party, vil du ha tilgang til en knapp som heter «Bare jeg har kontroll», som gir deg kontroll over hele se-partiet. På denne måten kan du velge en film for streaming for deg selv og andre seere. Denne funksjonen gir imidlertid ikke muligheten til å kontrollere andre seeres enheter utenfor Netflix Party via utvidelsen."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "ofte stilte spørsmål",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Er Netflix Party utenfor et abonnement?",
+        "answer": "Svaret er: JA. Netflix Party er 100 % gratis."
+      },
+      {
+        "id": "f2",
+        "question": "Trenger alle et eget Netflix-abonnement?",
+        "answer": "Dette er det mest stilte spørsmålet; hver Netflix Party-seer må ha sitt eget abonnement, selv når du bruker Netflix Party-utvidelsen."
+      },
+      {
+        "id": "f3",
+        "question": "Har Netflix Party sikkerhetsproblemer?",
+        "answer": "Svaret er et stort NEI, siden Netflix tar bekymringene til sine abonnenter om sikkerhet på alvor. Det er ingen sikkerhetsproblemer når du strømmer gjennom partyutvidelsen. Dessuten er Netflix en svært sikker plattform som alle kan bruke uten at det går på bekostning av sikkerheten."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Gi oss beskjed.",
+    "anyQuestions": "Har du spørsmål? Besøk vår støtteside",
+    "blog": "Blogg",
+    "popularSearches": "Populære søk",
+    "disclaimer": "Ansvarsfraskrivelse",
+    "disclaimerContent": "Netflix er et varemerke for Netflix, Inc. Dette nettstedet",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, How to do Netflix Party, How to use Netflix Party, How to do a Netflix Party, Netflix Watch Party Extension,"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Dodaj u", "free": "Besplatno je" },
+    "navBarHeading": "sada je dostupan na preglednicima Google Chrome, Microsoft Edge i Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX PARTY VAS POZIVA NA WATCH PARTY",
+      "html": "Netflix je zaslužio svoje jedinstveno mjesto u srcima svih kao divljenja vrijedna i hvaljena online streaming platforma. Godinama pruža sve te nevjerojatne usluge. Netflix radi najbolje, posebno za one koji uživaju u gledanju filmova, emisija, dokumentaraca, serija itd. S obzirom na to, u ovom užurbanom svijetu većina ljudi ne bi željela poremetiti svoj mir odlaskom u kina i gledanjem serija. Štoviše, nakon cjelodnevnog rada u uredu, ljudi nemaju energije za dodatne aktivnosti. <br/><br/> Nadalje, na kraju dana, želja da provedete filmsku večer kod kuće uz zdrav razgovor i čavrljanje s prijateljima, obitelji i voljenima dio je ljudske prirode. Dakle, da biste ispunili te željene misli, možete koristiti ekstenziju <a href=\"http://netflixpartys.pl\"><b><u>Netflix Party</b></u></a>, koja je besplatno proširenje preglednika za gledanje filmova i emisija na daljinu, pa čak i uživanje s prijateljima i obitelji. Osim toga, kada je u pitanju dijeljenje istih filmova i emisija, proširenje Netflix Party igra ključnu ulogu. Dijeljenjem URL-a Netflix Party zabave s prijateljima i obitelji, moći ćete gledati filmove i TV emisije u istoj HD kvaliteti.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Instalacija proširenja",
+      "subHeading": "Prvi korak je preuzimanje proširenja, što možete učiniti klikom ovdje. Osim toga, za preuzimanje proširenja morate imati preglednik Google Chrome ili Microsoft Edge na uređaju. Proširenje je kompatibilno s uređajima sa sustavom Windows, macOS i Chromebook. Tek tada možete instalirati proširenje Netflix Party za domaćina i pridruživanje zabavi gledanja.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Pričvrstite ekstenziju",
+          "answer": "Kada vidite gumb sa strane adresne trake preglednika, prikvačite proširenje Netflix Party na alatnu traku. Ako se ne pojavi, kliknite ikonu slagalice u gornjem desnom kutu preglednika. Tamo ćete pronaći ikonu za prikvačivanje na alatnu traku."
+        },
+        {
+          "id": "2",
+          "question": "Potrebna prijava",
+          "answer": "Zatim se morate prijaviti na svoj Netflix račun i stvoriti Netflix Party. Osim toga, gosti moraju imati vlastitu pretplatu na Netflix kako bi se pridružili zabavi gledanja."
+        },
+        {
+          "id": "3",
+          "question": "Pretraživanje, pokretanje i sinkronizacija",
+          "answer": "Nakon što se prijavite, možete pretraživati ​​i birati filmove za zabavu gledanja, pa čak i početi ih strujati. Zatim pauzirajte videozapis nakon strujanja na nekoliko sekundi, što je ključni korak u organiziranju zabave gledanja."
+        },
+        {
+          "id": "4",
+          "question": "Organizirajte Netflix zabavu",
+          "answer": "Sada kliknite gumb proširenja prikvačen na alatnu traku. Pojavit će se prozor 'KREIRAJ ZABAVU ZA GLEDANJE' s gumbom 'POKRENI ZABAVU'. Dakle, da biste organizirali Netflix Party, kliknite ovaj gumb. Zatim kopirajte i podijelite poveznicu Netflix Party pozivnice sa svojim favoritima."
+        },
+        {
+          "id": "5",
+          "question": "Pridružite se Watch Partyju",
+          "answer": "Osoba koja se pridružuje promatranju treba najprije instalirati proširenje i prikvačiti ga na alatnu traku. Zatim je potrebno prijaviti se na njihov Netflix račun i nastaviti klikom na URL pozivnice koju je poslao domaćin zabave."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Netflix Party značajke",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Povezan i sinkroniziran",
+          "answer": "Kako Netflix radi na sinkroniziran način; stoga se možete povezati i streamati globalno. Štoviše, nije važno koliko ste udaljeni od svojih prijatelja. Osim toga, možete se povezati i strujati s prijateljima pomoću proširenja."
+        },
+        {
+          "id": "t2",
+          "question": "Prilagodba profila",
+          "answer": "Svoj profil možete prilagoditi na razne načine. Na primjer, poboljšanje pseudonima i korištenje ikone za davanje osobnog karaktera Netflix zabavi i razgovorima. Te će se stvari pojaviti tijekom grupnog razgovora i zabava gledanja."
+        },
+        {
+          "id": "t3",
+          "question": "Poboljšanje kvalitete HD videa",
+          "answer": "U ovoj značajci doživjet ćete obećavajući HD video streaming. Nadalje, svaki put kada organizirate Netflix Party, iskustva će biti ista."
+        },
+        {
+          "id": "t4",
+          "question": "Streaming širom svijeta",
+          "answer": "Netflix watch party dostupan je u cijelom svijetu. Ovdje možete streamati filmove i emisije s prijateljima i obitelji, čak i ako žive izvan granica, koristeći Netflix Party Extension. Štoviše, možete organizirati zabavu gledanja kako biste stvorili nezaboravne trenutke."
+        },
+        {
+          "id": "t5",
+          "question": "Neograničeno okupljanje",
+          "answer": "Bit će vam drago čuti ovo jer možete dodati i pozvati do 100 članova. Ali sada je sinkronizacija s mnogim ljudima mnogo cijenjenija od bilo čega drugog."
+        },
+        {
+          "id": "t6",
+          "question": "Brzo učitavanje",
+          "answer": "Radi brzo ako ga učitamo pomoću party ekstenzije. Nikakvo spremanje u međuspremnik neće uzrokovati smetnje i probleme, a strujanje će teći glatko i bez prekida."
+        },
+        {
+          "id": "t7",
+          "question": "Angažman i grupni razgovori",
+          "answer": "Ova online platforma Netflix Party uz gledanje filmova i serija nudi i live chat opciju. A to gledateljima poboljšava doživljaj strujanja tijekom filmske večeri."
+        },
+        {
+          "id": "t8",
+          "question": "Kontrola pristupa",
+          "answer": "Ako ste domaćin Netflix Partyja, imat ćete pristup gumbu pod nazivom \"Samo ja imam kontrolu\", koji će vam dati kontrolu nad cijelom zabavom gledanja. Na taj način možete odabrati film za streaming za sebe i druge gledatelje. Međutim, ova značajka ne pruža mogućnost upravljanja uređajima drugih gledatelja izvan Netflix Partyja putem proširenja."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Često postavljana pitanja",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Je li Netflix Party izvan pretplate?",
+        "answer": "Odgovor je: DA. Netflix Party je 100% besplatan."
+      },
+      {
+        "id": "f2",
+        "question": "Treba li svima zasebna pretplata na Netflix?",
+        "answer": "Ovo je najčešće postavljano pitanje; svaki gledatelj Netflix Party mora imati vlastitu pretplatu, čak i kada koristi proširenje Netflix Party."
+      },
+      {
+        "id": "f3",
+        "question": "Ima li Netflix Party sigurnosnih problema?",
+        "answer": "Odgovor je veliko NE, budući da Netflix ozbiljno shvaća brige svojih pretplatnika o sigurnosti. Nema sigurnosnih problema prilikom strujanja putem party proširenja. Štoviše, Netflix je vrlo sigurna platforma koju svatko može koristiti bez ugrožavanja sigurnosti."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Javite nam.",
+    "anyQuestions": "Imate pitanja? Posjetite našu stranicu za podršku",
+    "blog": "Blog",
+    "popularSearches": "Popularne pretrage",
+    "disclaimer": "Odricanje",
+    "disclaimerContent": "Netflix je zaštitni znak tvrtke Netflix, Inc. Ova web stranica",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extension, Netflix Party Chrome proširenje, Watch Party Netflix, Kako napraviti Netflix Party, Kako koristiti Netflix Party, Kako napraviti Netflix Party, Netflix Watch Party Extension,"
+    ]
+  }
+}

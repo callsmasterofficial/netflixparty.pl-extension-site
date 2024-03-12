@@ -1,0 +1,122 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Optellen bij", "free": "Het is gratis" },
+    "navBarHeading": "is nu beschikbaar op Google Chrome, Microsoft Edge en Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX PARTY NODIGT JE UIT VOOR EEN KIJKFEEST",
+      "html": "Netflix heeft zijn unieke plaats in de harten van iedereen verdiend als bewonderenswaardig en veelgeprezen online streamingplatform. Het biedt al jaren al deze geweldige diensten. Netflix werkt het beste, vooral voor degenen die graag films, shows, documentaires, series, enz. kijken. In deze drukke wereld zouden de meeste mensen hun rustige uren niet willen verstoren door naar de bioscoop te gaan om films en shows te kijken. Bovendien hebben mensen na een dag werken op kantoor geen energie meer voor extra activiteiten. <br/><br/> Bovendien is de wens om uiteindelijk een filmavondje thuis door te brengen met gezonde gesprekken en een praatje met vrienden, familie en geliefden onderdeel van de menselijke natuur. Om deze gewenste gedachten te vervullen, kun je dus de extensie <a href=\"http://netflixpartys.pl\"><b><u>Netflix Party</b></u></a> gebruiken, namelijk een gratis browserextensie waarmee u films en programma's op afstand kunt bekijken, en zelfs kunt genieten met vrienden en familie. Bovendien speelt de Netflix Party-extensie een cruciale rol als het gaat om het delen van dezelfde films en shows. Door de Netflix Party-party-URL te delen met vrienden en familie, kun je films en tv-programma's in dezelfde HD-kwaliteit bekijken.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Installatie van uitbreiding",
+      "subHeading": "De eerste stap is het downloaden van de extensie, wat u kunt doen door hier te klikken. Om de extensie te downloaden, moet u bovendien de Google Chrome- of Microsoft Edge-browser op uw apparaat hebben. De extensie is compatibel met apparaten met Windows, macOS en Chromebook. Alleen dan kun je de Netflix Party-extensie installeren om een ​​kijkparty te hosten en eraan deel te nemen.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Zet de extensie vast",
+          "answer": "Wanneer je de knop aan de zijkant van de adresbalk van de browser ziet, zet je de Netflix Party-extensie vast aan de werkbalk. Als dit niet verschijnt, klikt u op het puzzelpictogram in de rechterbovenhoek van de browser. Daar vindt u het pictogram om het aan de werkbalk vast te zetten."
+        },
+        {
+          "id": "2",
+          "question": "Aanmelden vereist",
+          "answer": "Vervolgens moet je inloggen op je Netflix-account en een Netflix Party aanmaken. Bovendien moeten gasten over een eigen Netflix-abonnement beschikken om deel te nemen aan het kijkfeest."
+        },
+        {
+          "id": "3",
+          "question": "Zoeken, starten en synchroniseren",
+          "answer": "Nadat u bent ingelogd, kunt u films zoeken en selecteren voor het kijkfeest en deze zelfs streamen. Pauzeer vervolgens de video na het streamen een paar seconden, wat een belangrijke stap is bij het organiseren van het kijkfeest."
+        },
+        {
+          "id": "4",
+          "question": "Organiseer een Netflix-party",
+          "answer": "Klik nu op de extensieknop die op de werkbalk is vastgemaakt. Er verschijnt een venster 'CREATE A WATCH PARTY' met de knop 'START A PARTY'. Klik dus op deze knop om een ​​Netflix Party te organiseren. Kopieer en deel vervolgens de Netflix Party-uitnodigingslink met je favorieten."
+        },
+        {
+          "id": "5",
+          "question": "Sluit je aan bij de Watchparty",
+          "answer": "De persoon die deelneemt aan de watchparty moet eerst de extensie installeren en deze op de werkbalk vastzetten. Vervolgens moet u inloggen op hun Netflix-account en doorgaan door op de uitnodigings-URL te klikken die door de feesthost is verzonden."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Netflix Party-functies",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Verbonden en gesynchroniseerd",
+          "answer": "Omdat Netflix op een gesynchroniseerde manier werkt; Zo kunt u wereldwijd verbinding maken en streamen. Bovendien maakt het niet uit hoe ver je verwijderd bent van je vrienden. Bovendien kunt u via de extensie verbinding maken en streamen met vrienden."
+        },
+        {
+          "id": "t2",
+          "question": "Profielaanpassing",
+          "answer": "Je kunt je profiel op verschillende manieren aanpassen. Zo verbeteren we bijvoorbeeld het pseudoniem en gebruiken we een icoontje om Netflix Party en gesprekken een persoonlijk karakter te geven. Deze dingen verschijnen tijdens groepschats en kijkfeesten."
+        },
+        {
+          "id": "t3",
+          "question": "Verbetering van de HD-videokwaliteit",
+          "answer": "In deze functie ervaar je veelbelovende HD-videostreaming. Bovendien zullen de ervaringen elke keer dat je een Netflix Party organiseert, hetzelfde zijn."
+        },
+        {
+          "id": "t4",
+          "question": "Wereldwijd streamen",
+          "answer": "Netflix Watch Party is wereldwijd beschikbaar. Hier kun je films en shows streamen met vrienden en familie, zelfs als ze buiten de landsgrenzen wonen, met behulp van de Netflix Party Extension. Bovendien kunt u een kijkfeest organiseren om onvergetelijke momenten te creëren."
+        },
+        {
+          "id": "t5",
+          "question": "Onbeperkt verzamelen",
+          "answer": "U zult dit graag horen, aangezien u maximaal 100 leden kunt toevoegen en uitnodigen. Maar nu wordt gesynchroniseerd met veel mensen veel meer gewaardeerd dan wat dan ook."
+        },
+        {
+          "id": "t6",
+          "question": "Snel laden",
+          "answer": "Het werkt snel als we het laden met de party-extensie. Geen buffering zal hinder en problemen veroorzaken, en het streamen zal soepel en ononderbroken verlopen."
+        },
+        {
+          "id": "t7",
+          "question": "Betrokkenheid en groepschats",
+          "answer": "Dit online platform, Netflix Party, biedt naast het kijken van films en series ook een livechatmogelijkheid. En dit verbetert de streamingervaring van kijkers tijdens een filmavond."
+        },
+        {
+          "id": "t8",
+          "question": "Toegangscontrole",
+          "answer": "Als je de gastheer bent van Netflix Party, heb je toegang tot een knop met de naam 'Alleen ik heb controle', waarmee je controle krijgt over de hele kijkparty. Zo kies je een film om te streamen voor jezelf en andere kijkers. Deze functie biedt echter niet de mogelijkheid om via de extensie de apparaten van andere kijkers buiten Netflix Party te bedienen."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Veel Gestelde Vragen",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Valt Netflix Party buiten een abonnement?",
+        "answer": "Het antwoord is ja. Netflix Party is 100% gratis."
+      },
+      {
+        "id": "f2",
+        "question": "Heeft iedereen een apart Netflix-abonnement nodig?",
+        "answer": "Dit is de meest gestelde vraag; iedere Netflix Party-kijker moet een eigen abonnement hebben, ook als je de Netflix Party-extensie gebruikt."
+      },
+      {
+        "id": "f3",
+        "question": "Heeft Netflix Party beveiligingsproblemen?",
+        "answer": "Het antwoord is een grote NEE, omdat Netflix de zorgen van zijn abonnees over beveiliging serieus neemt. Er zijn geen beveiligingsproblemen bij het streamen via de partyextensie. Bovendien is Netflix een uiterst veilig platform dat iedereen kan gebruiken zonder de veiligheid in gevaar te brengen."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Laat het ons weten.",
+    "anyQuestions": "Vragen hebben? Bezoek onze ondersteuningspagina",
+    "blog": "Bloggen",
+    "popularSearches": "populaire zoekopdrachten",
+    "disclaimer": "Vrijwaring",
+    "disclaimerContent": "Netflix is ​​een handelsmerk van Netflix, Inc. Deze website",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extensie, Netflix Party Chrome Extensie, Watch Party Netflix, Hoe Netflix Party te doen, Hoe Netflix Party te gebruiken, Hoe een Netflix Party te doen, Netflix Watch Party Extensie,"
+    ]
+  }
+}

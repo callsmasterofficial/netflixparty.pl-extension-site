@@ -1,0 +1,122 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tambahkan", "free": "Ini gratis" },
+    "navBarHeading": "sekarang tersedia di Google Chrome, Microsoft Edge, dan Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX PARTY MENGUNDANG ANDA KE PESTA MENONTON",
+      "html": "Netflix telah mendapatkan tempat unik di hati semua orang sebagai platform streaming online yang mengagumkan dan terkenal. Selama bertahun-tahun, ia telah menyediakan semua layanan luar biasa ini. Netflix berfungsi paling baik, terutama bagi mereka yang suka menonton film, acara TV, dokumenter, serial, dll. Sayangnya, di dunia yang sibuk ini, kebanyakan orang tidak ingin mengganggu waktu tenang mereka dengan pergi ke bioskop untuk menonton film dan acara TV. Apalagi, setelah seharian bekerja di kantor, masyarakat tidak mempunyai tenaga untuk melakukan aktivitas ekstra. <br/><br/> Terlebih lagi, pada akhirnya, keinginan untuk menonton film di rumah sambil mengobrol sehat dan mengobrol dengan teman, keluarga, dan orang-orang terkasih adalah bagian dari sifat manusia. Jadi, untuk memenuhi pemikiran yang diinginkan ini, Anda dapat menggunakan ekstensi <a href=\"http://netflixpartys.pl\"><b><u>Netflix Party</b></u></a>, yaitu ekstensi browser gratis untuk menonton film dan acara TV dari jarak jauh, dan bahkan menikmatinya bersama teman dan keluarga. Selain itu, dalam hal berbagi film dan acara yang sama, ekstensi Netflix Party memainkan peran penting. Dengan membagikan URL pesta Netflix Party kepada teman dan keluarga, Anda akan dapat menonton film dan acara TV dalam kualitas HD yang sama.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Instalasi Ekstensi",
+      "subHeading": "Langkah pertama adalah mengunduh ekstensinya, yang dapat Anda lakukan dengan mengklik di sini. Selain itu, untuk mengunduh ekstensi, Anda harus memiliki browser Google Chrome atau Microsoft Edge di perangkat Anda. Ekstensi ini kompatibel dengan perangkat yang menjalankan Windows, macOS, dan Chromebook. Hanya dengan begitu Anda dapat menginstal ekstensi Netflix Party untuk mengadakan dan bergabung dengan pesta menonton.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Sematkan Ekstensi",
+          "answer": "Saat Anda melihat tombol di samping bilah alamat browser, sematkan ekstensi Netflix Party ke bilah alat. Jika tidak muncul, klik ikon puzzle di pojok kanan atas browser. Di sana Anda akan menemukan ikon untuk menyematkannya ke toolbar."
+        },
+        {
+          "id": "2",
+          "question": "login dibutuhkan",
+          "answer": "Selanjutnya, perlu masuk ke akun Netflix Anda dan membuat Pesta Netflix. Selain itu, para tamu harus memiliki langganan Netflix sendiri untuk bergabung dalam pesta menonton."
+        },
+        {
+          "id": "3",
+          "question": "Cari, Luncurkan, dan Sinkronisasi",
+          "answer": "Setelah masuk, Anda dapat mencari dan memilih film untuk menonton pesta, dan bahkan mulai mengalirkannya. Kemudian jeda video setelah streaming selama beberapa detik, yang merupakan langkah penting dalam mengatur pesta menonton."
+        },
+        {
+          "id": "4",
+          "question": "Selenggarakan Pesta Netflix",
+          "answer": "Sekarang, klik tombol ekstensi yang disematkan ke toolbar. Jendela 'CREATE A WATCH PARTY' akan muncul dengan tombol 'START A PARTY'. Jadi, untuk mengadakan Pesta Netflix, klik tombol ini. Lalu salin dan bagikan tautan undangan Pesta Netflix ke favorit Anda."
+        },
+        {
+          "id": "5",
+          "question": "Bergabunglah dengan Pesta Tontonan",
+          "answer": "Orang yang bergabung dalam pesta menonton harus menginstal ekstensi terlebih dahulu dan menyematkannya ke toolbar. Kemudian perlu masuk ke akun Netflix mereka dan melanjutkan dengan mengklik URL undangan yang dikirim oleh tuan rumah pesta."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Fitur Pesta Netflix",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Terhubung dan Tersinkronisasi",
+          "answer": "Karena Netflix beroperasi secara tersinkronisasi; dengan demikian, Anda dapat terhubung dan melakukan streaming secara global. Selain itu, tidak peduli seberapa jauh Anda dari teman-teman Anda. Selain itu, Anda dapat terhubung dan streaming dengan teman menggunakan ekstensi."
+        },
+        {
+          "id": "t2",
+          "question": "Kustomisasi Profil",
+          "answer": "Anda dapat menyesuaikan profil Anda dengan berbagai cara. Misalnya, menyempurnakan nama samaran dan menggunakan ikon untuk memberikan karakter pribadi pada Pesta dan percakapan Netflix. Hal-hal ini akan muncul selama obrolan grup dan pesta tontonan."
+        },
+        {
+          "id": "t3",
+          "question": "Peningkatan Kualitas Video HD",
+          "answer": "Pada fitur ini, Anda akan merasakan streaming video HD yang menjanjikan. Selain itu, setiap kali Anda mengadakan Pesta Netflix, pengalamannya akan sama."
+        },
+        {
+          "id": "t4",
+          "question": "Streaming Seluruh Dunia",
+          "answer": "Pesta menonton Netflix tersedia di seluruh dunia. Di sini Anda dapat melakukan streaming film dan acara TV bersama teman dan keluarga, meskipun mereka tinggal di luar negeri, menggunakan Netflix Party Extension. Selain itu, Anda dapat mengadakan pesta menonton untuk menciptakan momen tak terlupakan."
+        },
+        {
+          "id": "t5",
+          "question": "Pertemuan Tanpa Batas",
+          "answer": "Anda akan senang mendengarnya, karena Anda dapat menambah dan mengundang hingga 100 anggota. Namun sekarang menjadi sinkron dengan banyak orang jauh lebih dihargai dari apapun."
+        },
+        {
+          "id": "t6",
+          "question": "Pemuatan Cepat",
+          "answer": "Ini bekerja cepat jika kita memuatnya menggunakan ekstensi partai. Tidak ada buffering yang akan menimbulkan hambatan dan masalah, dan streaming akan lancar dan tidak terganggu."
+        },
+        {
+          "id": "t7",
+          "question": "Keterlibatan dan Obrolan Grup",
+          "answer": "Platform online ini, Netflix Party, juga menawarkan opsi live chat selain menonton film dan serial. Dan ini meningkatkan pengalaman streaming pemirsa selama menonton film di malam hari."
+        },
+        {
+          "id": "t8",
+          "question": "Kontrol akses",
+          "answer": "Jika Anda adalah tuan rumah Pesta Netflix, Anda akan memiliki akses ke tombol bernama 'Hanya saya yang memiliki kendali', yang akan memberi Anda kendali atas seluruh pesta tontonan. Dengan cara ini, Anda dapat memilih film untuk streaming untuk Anda sendiri dan pemirsa lainnya. Namun, fitur ini tidak memberikan kemampuan untuk mengontrol perangkat penonton lain di luar Netflix Party melalui ekstensi."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Apakah Netflix Party di luar langganan?",
+        "answer": "Jawabannya iya. Pesta Netflix 100% gratis."
+      },
+      {
+        "id": "f2",
+        "question": "Apakah setiap orang memerlukan langganan Netflix terpisah?",
+        "answer": "Ini adalah pertanyaan yang paling sering ditanyakan; setiap penonton Netflix Party harus memiliki langganannya sendiri, bahkan saat menggunakan ekstensi Netflix Party."
+      },
+      {
+        "id": "f3",
+        "question": "Apakah Pihak Netflix mengalami masalah keamanan?",
+        "answer": "Jawabannya adalah TIDAK, karena Netflix menganggap serius kekhawatiran pelanggannya mengenai keamanan. Tidak ada masalah keamanan saat streaming melalui ekstensi pihak. Selain itu, Netflix adalah platform yang sangat aman yang dapat digunakan siapa saja tanpa mengorbankan keamanan."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Beritahu kami.",
+    "anyQuestions": "Ada pertanyaan? Kunjungi halaman dukungan kami",
+    "blog": "Blog",
+    "popularSearches": "Pencarian Populer",
+    "disclaimer": "Penafian",
+    "disclaimerContent": "Netflix adalah merek dagang dari Netflix, Inc. Situs web ini",
+    "footerTags": [
+      "Pesta Tontonan Netflix, Pesta Netflix, Ekstensi Pesta Netflix, Ekstensi Chrome Pesta Netflix, Pesta Tontonan Netflix, Cara mengadakan Pesta Netflix, Cara menggunakan Pesta Netflix, Cara mengadakan Pesta Netflix, Ekstensi Pesta Tontonan Netflix,"
+    ]
+  }
+}

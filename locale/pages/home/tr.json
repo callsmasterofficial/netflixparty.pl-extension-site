@@ -1,0 +1,122 @@
+{
+  "header": {
+    "installBtn": { "addTo": "A ekle", "free": "Ücretsiz" },
+    "navBarHeading": "artık Google Chrome, Microsoft Edge ve Mozilla Firefox'ta mevcut"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX PARTY SİZİ BİR İZLEME PARTİSİNE DAVET EDİYOR",
+      "html": "Netflix, takdire şayan ve beğenilen bir çevrimiçi yayın platformu olarak herkesin kalbinde benzersiz bir yer edindi. Yıllardır tüm bu muhteşem hizmetleri sağlıyor. Netflix, özellikle film, şov, belgesel, dizi vb. izlemekten hoşlananlar için en iyi sonucu verir. Dikkate alındığında, bu yoğun dünyada çoğu insan film ve şov izlemek için sinemalara giderek huzurlu saatlerini bozmak istemez. Üstelik ofiste geçen bir günün ardından insanların ekstra aktiviteler için enerjisi kalmıyor. <br/><br/> Üstelik günün sonunda evde dostlarla, aileyle, sevdikleriyle sağlıklı sohbetler ve sohbetlerle bir film gecesi geçirme arzusu insan doğasının bir parçası. Bu arzu ettiğiniz düşünceleri gerçekleştirmek için <a href=\"http://netflixpartys.pl\"><b><u>Netflix Party</b></u></a> uzantısını kullanabilirsiniz. Filmleri ve programları uzaktan izlemek ve hatta arkadaşlarınızla ve ailenizle birlikte eğlenmek için ücretsiz bir tarayıcı uzantısı. Ayrıca konu aynı filmleri ve şovları paylaşmak olduğunda Netflix Party uzantısı çok önemli bir rol oynuyor. Netflix Parti partisi URL'sini arkadaşlarınız ve ailenizle paylaşarak filmleri ve TV şovlarını aynı HD kalitesinde izleyebileceksiniz.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Uzantı Kurulumu",
+      "subHeading": "İlk adım, buraya tıklayarak yapabileceğiniz uzantıyı indirmektir. Ayrıca uzantıyı indirebilmeniz için cihazınızda Google Chrome veya Microsoft Edge tarayıcısının bulunması gerekmektedir. Uzantı Windows, macOS ve Chromebook çalıştıran cihazlarla uyumludur. Ancak o zaman bir izleme partisine ev sahipliği yapmak ve katılmak için Netflix Party uzantısını yükleyebilirsiniz.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Uzantıyı Sabitle",
+          "answer": "Tarayıcı adres çubuğunun yanında düğmeyi gördüğünüzde Netflix Party uzantısını araç çubuğuna sabitleyin. Görünmüyorsa tarayıcının sağ üst köşesindeki bulmaca simgesine tıklayın. Burada onu araç çubuğuna sabitleyecek simgeyi bulacaksınız."
+        },
+        {
+          "id": "2",
+          "question": "oturum açmak gereklidir",
+          "answer": "Daha sonra, Netflix hesabınıza giriş yapmanız ve bir Netflix Partisi oluşturmanız gerekir. Ayrıca konukların izleme partisine katılabilmeleri için kendi Netflix aboneliklerinin olması gerekir."
+        },
+        {
+          "id": "3",
+          "question": "Ara, Başlat ve Senkronize Et",
+          "answer": "Giriş yaptıktan sonra izleme partisi için filmleri arayabilir ve seçebilir, hatta bunları yayınlamaya başlayabilirsiniz. Ardından videoyu izledikten sonra birkaç saniye duraklatın; bu, izleme partisinin düzenlenmesinde önemli bir adımdır."
+        },
+        {
+          "id": "4",
+          "question": "Netflix Partisine Ev Sahipliği Yapın",
+          "answer": "Şimdi araç çubuğuna sabitlenmiş uzantı düğmesini tıklayın. 'PARTİ BAŞLAT' düğmesiyle birlikte 'BİR İZLEME PARTİSİ OLUŞTUR' penceresi görünecektir. Yani bir Netflix Partisine ev sahipliği yapmak için bu düğmeye tıklayın. Ardından Netflix Parti daveti bağlantısını kopyalayıp favorilerinizle paylaşın."
+        },
+        {
+          "id": "5",
+          "question": "İzleme Partisine Katılın",
+          "answer": "İzleme partisine katılan kişinin öncelikle uzantıyı kurması ve onu araç çubuğuna sabitlemesi gerekir. Daha sonra Netflix hesabına giriş yapıp parti sunucusu tarafından gönderilen davet URL'sine tıklayarak devam etmeniz gerekir."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Netflix Parti Özellikleri",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Bağlı ve Senkronize",
+          "answer": "Netflix senkronize bir şekilde çalıştığı için; böylece küresel olarak bağlanabilir ve akış gerçekleştirebilirsiniz. Üstelik arkadaşlarınızdan ne kadar uzakta olduğunuzun bir önemi yok. Ek olarak, uzantıyı kullanarak arkadaşlarınızla bağlantı kurabilir ve yayın yapabilirsiniz."
+        },
+        {
+          "id": "t2",
+          "question": "Profil Özelleştirme",
+          "answer": "Profilinizi çeşitli şekillerde özelleştirebilirsiniz. Örneğin, takma adın iyileştirilmesi ve Netflix Partisine ve konuşmalarına kişisel bir karakter kazandırmak için bir simge kullanılması. Bunlar grup sohbeti ve izleme partileri sırasında ortaya çıkacak."
+        },
+        {
+          "id": "t3",
+          "question": "HD Video Kalitesinin Artırılması",
+          "answer": "Bu özellikte umut verici HD video akışını deneyimleyeceksiniz. Üstelik Netflix Partisine her ev sahipliği yaptığınızda deneyimler aynı olacaktır."
+        },
+        {
+          "id": "t4",
+          "question": "Dünya Çapında Yayın",
+          "answer": "Netflix izleme partisi dünya çapında mevcuttur. Burada, Netflix Parti Uzantısını kullanarak, sınırların ötesinde yaşasalar bile arkadaşlarınız ve ailenizle birlikte film ve program yayınlayabilirsiniz. Üstelik unutulmaz anlar yaratmak için izleme partisi düzenleyebilirsiniz."
+        },
+        {
+          "id": "t5",
+          "question": "Sınırsız Toplama",
+          "answer": "100'e kadar üye ekleyip davet edebileceğiniz için bunu duymaktan memnun olacaksınız. Ancak artık birçok insanla senkronize olmak her şeyden çok daha fazla takdir ediliyor."
+        },
+        {
+          "id": "t6",
+          "question": "Hızlı Yükleme",
+          "answer": "Party uzantısını kullanarak yüklersek hızlı çalışır. Hiçbir ara belleğe alma, engellemeye veya sorunlara neden olmaz ve akış sorunsuz ve kesintisiz olacaktır."
+        },
+        {
+          "id": "t7",
+          "question": "Etkileşim ve Grup Sohbetleri",
+          "answer": "Netflix Party adlı bu çevrimiçi platform, film ve dizi izlemenin yanı sıra canlı sohbet seçeneği de sunuyor. Bu da film gecesi sırasında izleyicilerin yayın deneyimlerini geliştirir."
+        },
+        {
+          "id": "t8",
+          "question": "Giriş kontrolu",
+          "answer": "Netflix Partisinin sunucusuysanız, izleme partisinin tamamı üzerinde kontrol sahibi olmanızı sağlayacak olan 'Yalnızca Kontrol bende' adlı bir düğmeye erişebileceksiniz. Bu şekilde kendiniz ve diğer izleyiciler için yayınlanacak bir film seçebilirsiniz. Ancak bu özellik, Netflix Party dışındaki diğer izleyicilerin cihazlarını uzantı aracılığıyla kontrol etme olanağı sağlamaz."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Sıkça Sorulan Sorular",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Netflix Party aboneliğin dışında mı?",
+        "answer": "Cevap Evet. Netflix Partisi %100 ücretsizdir."
+      },
+      {
+        "id": "f2",
+        "question": "Herkesin ayrı bir Netflix aboneliğine ihtiyacı var mı?",
+        "answer": "Bu en sık sorulan sorudur; Netflix Party uzantısını kullanırken bile her Netflix Party izleyicisinin kendi aboneliği olmalıdır."
+      },
+      {
+        "id": "f3",
+        "question": "Netflix Party'nin güvenlik sorunları var mı?",
+        "answer": "Netflix, abonelerinin güvenlikle ilgili endişelerini ciddiye aldığı için cevap büyük bir HAYIR. Parti uzantısı üzerinden yayın yaparken herhangi bir güvenlik sorunu yaşanmaz. Üstelik Netflix, herkesin güvenlikten ödün vermeden kullanabileceği son derece güvenli bir platformdur."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Bilmemize izin ver.",
+    "anyQuestions": "Sorularım var? Destek sayfamızı ziyaret edin",
+    "blog": "Blog",
+    "popularSearches": "popüler aramalar",
+    "disclaimer": "Sorumluluk reddi beyanı",
+    "disclaimerContent": "Netflix, Netflix, Inc.'in ticari markasıdır. Bu web sitesi",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Uzantısı, Netflix Party Chrome Uzantısı, Watch Party Netflix, Netflix Party nasıl yapılır, Netflix Party nasıl kullanılır, Netflix Party nasıl yapılır, Netflix Watch Party Uzantısı,"
+    ]
+  }
+}
