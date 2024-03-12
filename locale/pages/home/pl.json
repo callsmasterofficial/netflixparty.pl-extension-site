@@ -1,0 +1,122 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Dodać do", "free": "To jest darmowe" },
+    "navBarHeading": "jest teraz dostępny w przeglądarkach Google Chrome, Microsoft Edge i Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "IMPREZA NETFLIX ZAPRASZA NA IMPREZĘ OGLĄDANIA",
+      "html": "Netflix zdobył swoje wyjątkowe miejsce w sercach wszystkich jako godna podziwu i uznana platforma do transmisji strumieniowej online. Od lat świadczy te wszystkie niesamowite usługi. Netflix sprawdza się najlepiej, szczególnie w przypadku tych, którzy lubią oglądać filmy, programy, filmy dokumentalne, seriale itp. Należy zachować ostrożność, w tym zabieganym świecie większość ludzi nie chciałaby zakłócać swojego spokojnego czasu, chodząc do kina, aby obejrzeć filmy i programy. Co więcej, po całym dniu pracy w biurze nie ma się już siły na dodatkowe zajęcia. <br/><br/> Co więcej, pod koniec dnia chęć spędzenia wieczoru filmowego w domu przy zdrowej rozmowie i pogawędkach z przyjaciółmi, rodziną i bliskimi jest częścią ludzkiej natury. Aby więc spełnić te upragnione myśli, możesz skorzystać z rozszerzenia <a href=\"http://netflixpartys.pl\"><b><u>Netflix Party</b></u></a>, które jest bezpłatne rozszerzenie przeglądarki umożliwiające zdalne oglądanie filmów i programów, a nawet zabawę z przyjaciółmi i rodziną. Dodatkowo, jeśli chodzi o udostępnianie tych samych filmów i programów, rozszerzenie Netflix Party odgrywa kluczową rolę. Udostępniając adres URL imprezy Netflix Party znajomym i rodzinie, będziesz mógł oglądać filmy i programy telewizyjne w tej samej jakości HD.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Instalacja rozszerzenia",
+      "subHeading": "Pierwszym krokiem jest pobranie rozszerzenia, czego możesz dokonać klikając tutaj. Dodatkowo, aby pobrać rozszerzenie, musisz mieć na swoim urządzeniu przeglądarkę Google Chrome lub Microsoft Edge. Rozszerzenie jest kompatybilne z urządzeniami z systemem Windows, macOS i Chromebookiem. Dopiero wtedy możesz zainstalować rozszerzenie Netflix Party, aby zorganizować imprezę związaną z oglądaniem i dołączyć do niej.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Przypnij rozszerzenie",
+          "answer": "Gdy zobaczysz przycisk z boku paska adresu przeglądarki, przypnij rozszerzenie Netflix Party do paska narzędzi. Jeśli się nie pojawi, kliknij ikonę puzzli w prawym górnym rogu przeglądarki. Znajdziesz tam ikonę umożliwiającą przypięcie go do paska narzędzi."
+        },
+        {
+          "id": "2",
+          "question": "Logowanie wymagane",
+          "answer": "Następnie wymaga zalogowania się na swoje konto Netflix i utworzenia Netflix Party. Dodatkowo, aby dołączyć do oglądania, goście muszą posiadać własną subskrypcję Netflix."
+        },
+        {
+          "id": "3",
+          "question": "Wyszukaj, uruchom i zsynchronizuj",
+          "answer": "Po zalogowaniu możesz wyszukiwać i wybierać filmy do wspólnego oglądania, a nawet rozpocząć ich streaming. Następnie zatrzymaj wideo po transmisji na kilka sekund, co jest kluczowym krokiem w organizacji imprezy polegającej na oglądaniu."
+        },
+        {
+          "id": "4",
+          "question": "Zorganizuj imprezę Netflix",
+          "answer": "Teraz kliknij przycisk rozszerzenia przypięty do paska narzędzi. Pojawi się okno „UTWÓRZ PARTY OGLĄDANIA” z przyciskiem „ROZPOCZNIJ PARTY”. Aby zorganizować imprezę Netflix Party, kliknij ten przycisk. Następnie skopiuj i udostępnij link do zaproszenia na imprezę Netflix swoim ulubionym osobom."
+        },
+        {
+          "id": "5",
+          "question": "Dołącz do imprezy z oglądaniem",
+          "answer": "Osoba przyłączająca się do oglądania powinna najpierw zainstalować rozszerzenie i przypiąć je do paska narzędzi. Następnie wymaga zalogowania się na swoje konto Netflix i kliknięcia adresu URL zaproszenia przesłanego przez gospodarza imprezy."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Funkcje imprezowe w serwisie Netflix",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Połączony i zsynchronizowany",
+          "answer": "Ponieważ Netflix działa w sposób zsynchronizowany; dzięki temu możesz łączyć się i przesyłać strumieniowo na całym świecie. Co więcej, nie ma znaczenia, jak daleko jesteś od znajomych. Dodatkowo możesz łączyć się i przesyłać strumieniowo ze znajomymi za pomocą rozszerzenia."
+        },
+        {
+          "id": "t2",
+          "question": "Dostosowywanie profilu",
+          "answer": "Możesz dostosować swój profil na różne sposoby. Na przykład poprawienie pseudonimu i użycie ikony w celu nadania osobistego charakteru Netflix Party i rozmowom. Te rzeczy będą widoczne podczas rozmów grupowych i oglądania spotkań."
+        },
+        {
+          "id": "t3",
+          "question": "Poprawa jakości wideo HD",
+          "answer": "Dzięki tej funkcji możesz cieszyć się obiecującą transmisją wideo w jakości HD. Co więcej, za każdym razem, gdy organizujesz imprezę Netflix, wrażenia będą takie same."
+        },
+        {
+          "id": "t4",
+          "question": "Transmisja na całym świecie",
+          "answer": "Impreza z oglądaniem Netflix jest dostępna na całym świecie. Tutaj możesz przesyłać strumieniowo filmy i programy ze znajomymi i rodziną, nawet jeśli mieszkają za granicą, korzystając z rozszerzenia Netflix Party. Co więcej, możesz zorganizować imprezę przy oglądaniu, która zapewni niezapomniane chwile."
+        },
+        {
+          "id": "t5",
+          "question": "Nieograniczone spotkania",
+          "answer": "Ucieszy Cię to, ponieważ możesz dodać i zaprosić nawet 100 członków. Ale teraz synchronizacja z wieloma ludźmi jest znacznie bardziej ceniona niż cokolwiek innego."
+        },
+        {
+          "id": "t6",
+          "question": "Szybkie ładowanie",
+          "answer": "Działa szybko, jeśli załadujemy go za pomocą rozszerzenia party. Żadne buforowanie nie spowoduje przeszkód i problemów, a przesyłanie strumieniowe będzie płynne i nieprzerwane."
+        },
+        {
+          "id": "t7",
+          "question": "Zaangażowanie i czaty grupowe",
+          "answer": "Ta platforma internetowa Netflix Party oferuje również opcję czatu na żywo wraz z oglądaniem filmów i seriali. Zwiększa to komfort oglądania filmów podczas wieczoru filmowego."
+        },
+        {
+          "id": "t8",
+          "question": "Kontrola dostępu",
+          "answer": "Jeśli jesteś gospodarzem Netflix Party, będziesz mieć dostęp do przycisku „Tylko ja mam kontrolę”, który zapewni Ci kontrolę nad całą imprezą związaną z oglądaniem. W ten sposób możesz wybrać film do transmisji strumieniowej dla siebie i innych widzów. Jednak ta funkcja nie zapewnia możliwości kontrolowania urządzeń innych widzów poza Netflix Party za pośrednictwem rozszerzenia."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Często Zadawane Pytania",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Czy Netflix Party jest poza subskrypcją?",
+        "answer": "Odpowiedź brzmi tak. Netflix Party jest w 100% darmowy."
+      },
+      {
+        "id": "f2",
+        "question": "Czy każdy potrzebuje osobnej subskrypcji Netflix?",
+        "answer": "To najczęściej zadawane pytanie; każdy widz Netflix Party musi mieć własną subskrypcję, nawet jeśli korzysta z rozszerzenia Netflix Party."
+      },
+      {
+        "id": "f3",
+        "question": "Czy Netflix Party ma problemy z bezpieczeństwem?",
+        "answer": "Odpowiedź brzmi: zdecydowanie NIE, ponieważ Netflix poważnie podchodzi do obaw swoich abonentów dotyczących bezpieczeństwa. Podczas przesyłania strumieniowego za pośrednictwem rozszerzenia imprezy nie występują żadne problemy związane z bezpieczeństwem. Co więcej, Netflix to bardzo bezpieczna platforma, z której każdy może korzystać bez narażania bezpieczeństwa."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Daj nam znać.",
+    "anyQuestions": "Mieć pytania? Odwiedź naszą stronę wsparcia",
+    "blog": "Bloga",
+    "popularSearches": "popularne wyszukiwania",
+    "disclaimer": "Zastrzeżenie",
+    "disclaimerContent": "Netflix jest znakiem towarowym firmy Netflix, Inc. Niniejsza witryna internetowa",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Rozszerzenie Netflix Party, Netflix Party rozszerzenie do Chrome, Oglądanie Netflix, Jak zrobić Netflix Party, Jak korzystać z Netflix Party, Jak zorganizować Netflix Party, Rozszerzenie Netflix Watch Party,"
+    ]
+  }
+}

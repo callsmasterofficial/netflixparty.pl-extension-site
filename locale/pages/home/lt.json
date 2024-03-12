@@ -1,0 +1,122 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pridėti prie", "free": "Nemokama" },
+    "navBarHeading": "dabar galima „Google Chrome“, „Microsoft Edge“ ir „Mozilla Firefox“."
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX PARTY KVIEČIA JUS Į ŽIŪRĖJIMO VAKARĮ",
+      "html": "„Netflix“ užsitarnavo savo unikalią vietą visų širdyse kaip žavinga ir pripažinta internetinė srautinio perdavimo platforma. Jau daugelį metų ji teikia visas šias nuostabias paslaugas. „Netflix“ veikia geriausiai, ypač tiems, kuriems patinka žiūrėti filmus, laidas, dokumentinius filmus, serialus ir kt. Turint omenyje, šiame judriame pasaulyje dauguma žmonių nenorėtų trikdyti savo ramių valandų eidami į kino teatrus žiūrėti filmų ir laidų. Be to, po dienos darbo biure žmonės nebeturi jėgų papildomai veiklai. <br/><br/> Be to, dienos pabaigoje noras praleisti kino vakarą namuose sveikai bendraujant ir pabendrauti su draugais, šeima ir artimaisiais yra žmogaus prigimties dalis. Taigi, norėdami įgyvendinti šias norimas mintis, galite naudoti <a href=\"http://netflixpartys.pl\"><b><u>Netflix Party</b></u></a> plėtinį, kuris yra nemokamas naršyklės plėtinys, skirtas žiūrėti filmus ir laidas nuotoliniu būdu ir netgi mėgautis su draugais ir šeima. Be to, kai reikia dalytis tais pačiais filmais ir laidomis, „Netflix Party“ plėtinys atlieka labai svarbų vaidmenį. Bendrindami „Netflix Party“ vakarėlio URL su draugais ir šeima galėsite žiūrėti filmus ir TV laidas ta pačia HD kokybe.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Pratęsimo įrengimas",
+      "subHeading": "Pirmiausia reikia atsisiųsti plėtinį, kurį galite padaryti spustelėję čia. Be to, norėdami atsisiųsti plėtinį, įrenginyje turite turėti „Google Chrome“ arba „Microsoft Edge“ naršyklę. Plėtinys suderinamas su įrenginiais, kuriuose veikia „Windows“, „MacOS“ ir „Chromebook“. Tik tada galėsite įdiegti „Netflix Party“ plėtinį, kad galėtumėte rengti ir prisijungti prie žiūrėjimo vakarėlio.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Prisekite plėtinį",
+          "answer": "Kai pamatysite mygtuką naršyklės adreso juostos šone, prisekite „Netflix Party“ plėtinį prie įrankių juostos. Jei jis nerodomas, spustelėkite galvosūkio piktogramą viršutiniame dešiniajame naršyklės kampe. Ten rasite piktogramą, kad prisegtumėte ją prie įrankių juostos."
+        },
+        {
+          "id": "2",
+          "question": "Reikalingas prisijungimas",
+          "answer": "Tada reikia prisijungti prie „Netflix“ paskyros ir sukurti „Netflix Party“. Be to, norėdami prisijungti prie žiūrėjimo vakarėlio, svečiai turi turėti savo „Netflix“ prenumeratą."
+        },
+        {
+          "id": "3",
+          "question": "Ieškoti, paleisti ir sinchronizuoti",
+          "answer": "Prisijungę galite ieškoti ir pasirinkti filmų žiūrėjimo vakarėliui ir netgi pradėti juos transliuoti. Tada po kelių sekundžių pristabdykite vaizdo įrašą, o tai yra pagrindinis žingsnis organizuojant žiūrėjimo vakarėlį."
+        },
+        {
+          "id": "4",
+          "question": "Organizuokite „Netflix“ vakarėlį",
+          "answer": "Dabar spustelėkite įrankių juostoje prisegtą plėtinio mygtuką. Atsiras langas „SUKURTI ŽIŪRĖJIMO VARTĮ“ su mygtuku „Pradėti vakarėlį“. Taigi, norėdami surengti „Netflix“ vakarėlį, spustelėkite šį mygtuką. Tada nukopijuokite ir bendrinkite „Netflix Party“ kvietimo nuorodą su savo mėgstamiausiais."
+        },
+        {
+          "id": "5",
+          "question": "Prisijunkite prie „Watch Party“.",
+          "answer": "Asmuo, prisijungęs prie žiūrėjimo partijos, pirmiausia turėtų įdiegti plėtinį ir prisegti jį prie įrankių juostos. Tada reikia prisijungti prie „Netflix“ paskyros ir spustelėti vakarėlio šeimininko išsiųstą kvietimo URL."
+        }
+      ]
+    },
+    "three": {
+      "heading": "„Netflix“ vakarėlio funkcijos",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Prisijungta ir sinchronizuota",
+          "answer": "Kadangi „Netflix“ veikia sinchronizuotai; taigi, galite prisijungti ir transliuoti visame pasaulyje. Be to, nesvarbu, kaip toli esate nuo savo draugų. Be to, naudodami plėtinį galite prisijungti ir transliuoti su draugais."
+        },
+        {
+          "id": "t2",
+          "question": "Profilio pritaikymas",
+          "answer": "Savo profilį galite tinkinti įvairiais būdais. Pavyzdžiui, patobulinti pseudonimą ir naudoti piktogramą, kad „Netflix“ vakarėliui ir pokalbiams suteiktų asmeninį charakterį. Šie dalykai bus rodomi grupės pokalbių ir žiūrėjimo vakarėlių metu."
+        },
+        {
+          "id": "t3",
+          "question": "HD vaizdo kokybės gerinimas",
+          "answer": "Naudodami šią funkciją patirsite daug žadantį HD vaizdo įrašų srautinį perdavimą. Be to, kiekvieną kartą, kai rengiate „Netflix“ vakarėlį, patirtis bus tokia pati."
+        },
+        {
+          "id": "t4",
+          "question": "Srautas visame pasaulyje",
+          "answer": "„Netflix“ žiūrėjimo vakarėlis pasiekiamas visame pasaulyje. Čia galite transliuoti filmus ir laidas su draugais ir šeima, net jei jie gyvena už sienų, naudodami „Netflix Party Extension“. Be to, galite surengti žiūrėjimo vakarėlį, kad sukurtumėte nepamirštamų akimirkų."
+        },
+        {
+          "id": "t5",
+          "question": "Neribotas susirinkimas",
+          "answer": "Jums bus malonu tai išgirsti, nes galite pridėti ir pakviesti iki 100 narių. Tačiau dabar sinchronizavimas su daugeliu žmonių yra daug labiau vertinamas nei bet kas kitas."
+        },
+        {
+          "id": "t6",
+          "question": "Greitas įkėlimas",
+          "answer": "Jis veikia greitai, jei įkeliame jį naudodami partijos plėtinį. Joks buferis nesukels kliūčių ir problemų, o srautinis perdavimas bus sklandus ir nenutrūkstamas."
+        },
+        {
+          "id": "t7",
+          "question": "Sužadėtuvių ir grupiniai pokalbiai",
+          "answer": "Ši internetinė platforma „Netflix Party“ taip pat siūlo tiesioginio pokalbio galimybę kartu su filmų ir serialų žiūrėjimu. Ir tai pagerina žiūrovų srautinio perdavimo patirtį filmų vakaro metu."
+        },
+        {
+          "id": "t8",
+          "question": "Prieigos kontrolė",
+          "answer": "Jei esate „Netflix Party“ vedėjas, turėsite prieigą prie mygtuko „Tik aš galiu valdyti“, kuris leis jums valdyti visą žiūrėjimo vakarėlį. Tokiu būdu galite pasirinkti filmą srautiniam perdavimui sau ir kitiems žiūrovams. Tačiau ši funkcija nesuteikia galimybės per plėtinį valdyti kitų žiūrinčiųjų įrenginių, nepriklausančių „Netflix Party“."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Dažnai užduodami klausimai",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Ar „Netflix Party“ nėra prenumerata?",
+        "answer": "Atsakymas yra: TAIP. „Netflix Party“ yra 100% nemokama."
+      },
+      {
+        "id": "f2",
+        "question": "Ar visiems reikia atskiros „Netflix“ prenumeratos?",
+        "answer": "Tai dažniausiai užduodamas klausimas; kiekvienas „Netflix Party“ žiūrovas turi turėti savo prenumeratą, net ir naudojant „Netflix Party“ plėtinį."
+      },
+      {
+        "id": "f3",
+        "question": "Ar „Netflix Party“ turi saugumo problemų?",
+        "answer": "Atsakymas yra didelis NE, nes „Netflix“ rimtai žiūri į savo abonentų susirūpinimą dėl saugumo. Srautiniu būdu per vakarėlio plėtinį nekyla saugumo problemų. Be to, „Netflix“ yra labai saugi platforma, kuria gali naudotis kiekvienas nepakenkdamas saugumui."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Praneškite mums.",
+    "anyQuestions": "Turite klausimų? Apsilankykite mūsų palaikymo puslapyje",
+    "blog": "Dienoraštis",
+    "popularSearches": "Populiarios paieškos",
+    "disclaimer": "Atsisakymas",
+    "disclaimerContent": "„Netflix“ yra „Netflix, Inc.“ prekės ženklas. Ši svetainė",
+    "footerTags": [
+      "„Netflix“ žiūrėjimo vakarėlis, „Netflix“ vakarėlis, „Netflix“ vakarėlio plėtinys, „Netflix“ vakarėlio Chrome plėtinys, „Netflix“ vakarėlio žiūrėjimo vakarėlis, „Netflix“ vakarėlis, Kaip naudotis „Netflix“ vakarėliu, Kaip surengti „Netflix“ vakarėlį, „Netflix“ vakarėlio pratęsimas,"
+    ]
+  }
+}

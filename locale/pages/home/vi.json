@@ -1,0 +1,122 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Thêm vào", "free": "Nó miễn phí" },
+    "navBarHeading": "hiện có sẵn trên Google Chrome, Microsoft Edge và Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "BÊN NETFLIX MỜI BẠN THAM GIA BÊN XEM",
+      "html": "Netflix đã giành được vị trí độc nhất trong lòng mọi người với tư cách là một nền tảng phát trực tuyến đáng ngưỡng mộ và được hoan nghênh. Trong nhiều năm, nó đã cung cấp tất cả các dịch vụ tuyệt vời này. Netflix hoạt động tốt nhất, đặc biệt đối với những người thích xem phim, chương trình truyền hình, phim tài liệu, phim bộ, v.v. Cần lưu ý rằng, trong thế giới bận rộn này, hầu hết mọi người sẽ không muốn phá vỡ những giờ phút yên bình của mình bằng cách đến rạp chiếu phim để xem phim và chương trình truyền hình. Hơn nữa, sau một ngày làm việc tại văn phòng, mọi người không còn sức lực cho các hoạt động thêm. <br/><br/> Hơn nữa, vào cuối ngày, mong muốn dành một buổi tối xem phim ở nhà để trò chuyện và trò chuyện lành mạnh với bạn bè, gia đình và những người thân yêu là một phần bản chất của con người. Vì vậy, để thực hiện những suy nghĩ mong muốn này, bạn có thể sử dụng tiện ích mở rộng <a href=\"http://netflixpartys.pl\"><b><u>Netflix Party</b></u></a>. một tiện ích mở rộng trình duyệt miễn phí để xem phim và chương trình từ xa và thậm chí thưởng thức cùng bạn bè và gia đình. Ngoài ra, khi nói đến việc chia sẻ cùng một bộ phim và chương trình, tiện ích mở rộng Netflix Party đóng một vai trò quan trọng. Bằng cách chia sẻ URL bữa tiệc Netflix Party với bạn bè và gia đình, bạn sẽ có thể xem phim và chương trình truyền hình ở cùng chất lượng HD.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Cài đặt tiện ích mở rộng",
+      "subHeading": "Bước đầu tiên là tải xuống tiện ích mở rộng, bạn có thể thực hiện bằng cách nhấp vào đây. Ngoài ra, để tải xuống tiện ích mở rộng, bạn cần có trình duyệt Google Chrome hoặc Microsoft Edge trên thiết bị của mình. Tiện ích mở rộng tương thích với các thiết bị chạy Windows, macOS và Chromebook. Chỉ khi đó bạn mới có thể cài đặt tiện ích mở rộng Netflix Party để tổ chức và tham gia buổi xem chung.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Ghim tiện ích mở rộng",
+          "answer": "Khi bạn nhìn thấy nút ở bên cạnh thanh địa chỉ trình duyệt, hãy ghim tiện ích mở rộng Netflix Party vào thanh công cụ. Nếu không xuất hiện hãy nhấn vào biểu tượng câu đố ở góc trên bên phải trình duyệt. Ở đó bạn sẽ tìm thấy biểu tượng để ghim nó vào thanh công cụ."
+        },
+        {
+          "id": "2",
+          "question": "yêu cầu đăng nhập",
+          "answer": "Tiếp theo, nó yêu cầu bạn đăng nhập vào tài khoản Netflix và tạo Netflix Party. Ngoài ra, khách phải có đăng ký Netflix của riêng mình để tham gia bữa tiệc xem."
+        },
+        {
+          "id": "3",
+          "question": "Tìm kiếm, khởi chạy và đồng bộ hóa",
+          "answer": "Sau khi đăng nhập, bạn có thể tìm kiếm và chọn phim cho bữa tiệc xem và thậm chí bắt đầu phát trực tuyến chúng. Sau đó tạm dừng video sau khi phát trực tuyến trong vài giây, đây là bước quan trọng trong việc tổ chức buổi xem chung."
+        },
+        {
+          "id": "4",
+          "question": "Tổ chức một bữa tiệc Netflix",
+          "answer": "Bây giờ, hãy nhấp vào nút tiện ích mở rộng được ghim vào thanh công cụ. Cửa sổ 'TẠO BÊN XEM' sẽ xuất hiện cùng với nút 'BẮT ĐẦU BÊN'. Vì vậy, để tổ chức Bữa tiệc Netflix, hãy nhấp vào nút này. Sau đó sao chép và chia sẻ liên kết mời tham gia Netflix Party với những người bạn yêu thích."
+        },
+        {
+          "id": "5",
+          "question": "Tham gia nhóm xem",
+          "answer": "Người tham gia nhóm xem trước tiên phải cài đặt tiện ích mở rộng và ghim tiện ích đó vào thanh công cụ. Sau đó, nó yêu cầu đăng nhập vào tài khoản Netflix của họ và tiếp tục bằng cách nhấp vào URL lời mời do người tổ chức bữa tiệc gửi."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Tính năng của bữa tiệc Netflix",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Đã kết nối và đồng bộ hóa",
+          "answer": "Vì Netflix hoạt động một cách đồng bộ; do đó, bạn có thể kết nối và phát trực tuyến trên toàn cầu. Hơn nữa, việc bạn cách bạn bè bao xa không quan trọng. Ngoài ra, bạn có thể kết nối và phát trực tuyến với bạn bè bằng tiện ích mở rộng."
+        },
+        {
+          "id": "t2",
+          "question": "Tùy chỉnh hồ sơ",
+          "answer": "Bạn có thể tùy chỉnh hồ sơ của mình theo nhiều cách khác nhau. Ví dụ: cải thiện bút danh và sử dụng biểu tượng để tạo nhân vật cá nhân cho Netflix Party và các cuộc trò chuyện. Những thứ này sẽ xuất hiện trong cuộc trò chuyện nhóm và xem các bữa tiệc."
+        },
+        {
+          "id": "t3",
+          "question": "Nâng cao chất lượng video HD",
+          "answer": "Với tính năng này, bạn sẽ trải nghiệm khả năng truyền phát video HD đầy hứa hẹn. Hơn nữa, mỗi lần bạn tổ chức Bữa tiệc Netflix, trải nghiệm sẽ giống nhau."
+        },
+        {
+          "id": "t4",
+          "question": "Phát trực tuyến trên toàn thế giới",
+          "answer": "Bữa tiệc xem Netflix có sẵn trên toàn thế giới. Tại đây, bạn có thể phát trực tuyến phim và chương trình với bạn bè và gia đình, ngay cả khi họ sống ngoài biên giới bằng cách sử dụng Tiện ích mở rộng Netflix Party. Hơn nữa, bạn có thể tổ chức một bữa tiệc xem để tạo ra những khoảnh khắc khó quên."
+        },
+        {
+          "id": "t5",
+          "question": "Thu thập không giới hạn",
+          "answer": "Bạn sẽ rất vui khi biết điều này vì bạn có thể thêm và mời tối đa 100 thành viên. Nhưng giờ đây việc được đồng bộ với nhiều người được đánh giá cao hơn rất nhiều so với bất kỳ điều gì khác."
+        },
+        {
+          "id": "t6",
+          "question": "Tải nhanh",
+          "answer": "Nó hoạt động nhanh nếu chúng tôi tải nó bằng tiện ích mở rộng của nhóm. Không có tình trạng đệm sẽ gây trở ngại và sự cố, đồng thời quá trình phát trực tuyến sẽ diễn ra suôn sẻ và không bị gián đoạn."
+        },
+        {
+          "id": "t7",
+          "question": "Tương tác và trò chuyện nhóm",
+          "answer": "Nền tảng trực tuyến này, Netflix Party, cũng cung cấp tùy chọn trò chuyện trực tiếp cùng với việc xem phim và phim bộ. Và điều này nâng cao trải nghiệm phát trực tuyến của người xem trong một đêm chiếu phim."
+        },
+        {
+          "id": "t8",
+          "question": "Kiểm soát truy cập",
+          "answer": "Nếu bạn là người tổ chức Bữa tiệc Netflix, bạn sẽ có quyền truy cập vào nút có tên \"Chỉ tôi mới có quyền kiểm soát\", nút này sẽ cho phép bạn kiểm soát toàn bộ buổi xem chung. Bằng cách này, bạn có thể chọn phim để phát trực tuyến cho chính mình và những người xem khác. Tuy nhiên, tính năng này không cung cấp khả năng điều khiển thiết bị của người xem khác ngoài Netflix Party thông qua tiện ích mở rộng."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Các câu hỏi thường gặp",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Netflix Party có nằm ngoài phạm vi đăng ký không?",
+        "answer": "Câu trả lời là: CÓ. Bữa tiệc Netflix miễn phí 100%."
+      },
+      {
+        "id": "f2",
+        "question": "Có phải mọi người đều cần đăng ký Netflix riêng?",
+        "answer": "Đây là câu hỏi thường gặp nhất; mọi người xem Netflix Party đều phải có đăng ký riêng, ngay cả khi sử dụng tiện ích mở rộng Netflix Party."
+      },
+      {
+        "id": "f3",
+        "question": "Netflix Party có vấn đề về bảo mật không?",
+        "answer": "Câu trả lời là KHÔNG, vì Netflix rất coi trọng mối lo ngại của người đăng ký về vấn đề bảo mật. Không có vấn đề bảo mật khi phát trực tuyến qua tiện ích mở rộng của nhóm. Hơn nữa, Netflix là một nền tảng có độ bảo mật cao mà bất kỳ ai cũng có thể sử dụng mà không ảnh hưởng đến bảo mật."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Hãy cho chúng tôi biết.",
+    "anyQuestions": "Có một vài câu hỏi? Truy cập trang hỗ trợ của chúng tôi",
+    "blog": "Blog",
+    "popularSearches": "Tìm kiếm phổ biến",
+    "disclaimer": "Tuyên bố miễn trừ trách nhiệm",
+    "disclaimerContent": "Netflix là thương hiệu của Netflix, Inc. Trang web này",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, Cách thực hiện Netflix Party, Cách sử dụng Netflix Party, Cách thực hiện Netflix Party, Tiện ích mở rộng Netflix Watch Party,"
+    ]
+  }
+}

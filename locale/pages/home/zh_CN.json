@@ -1,0 +1,122 @@
+{
+  "header": {
+    "installBtn": { "addTo": "添加", "free": "这是免费的" },
+    "navBarHeading": "现已在 Google Chrome、Microsoft Edge 和 Mozilla Firefox 上提供"
+  },
+  "section": {
+    "first": {
+      "heading": "Netflix 派对邀请您参加观看派对",
+      "html": "作为一个令人钦佩且广受赞誉的在线流媒体平台，Netflix 在每个人心中赢得了独特的地位。多年来，它一直在提供所有这些令人惊叹的服务。 Netflix 的效果最好，特别是对于那些喜欢观看电影、节目、纪录片、连续剧等的人来说。考虑到，在这个忙碌的世界中，大多数人都不想去电影院观看电影和节目来扰乱他们平静的时光。而且，在办公室工作一天后，人们没有精力进行额外的活动。 <br/><br/> 此外，在一天结束时，渴望在家度过一个电影之夜，与朋友、家人和亲人进行健康的交谈和聊天是人性的一部分。因此，为了实现这些期望的想法，您可以使用 <a href=\"http://netflixpartys.pl\"><b><u>Netflix Party</b></u></a> 扩展，它是一个免费的浏览器扩展，用于远程观看电影和节目，甚至与朋友和家人一起欣赏。此外，在共享相同的电影和节目时，Netflix Party 扩展起着至关重要的作用。通过与朋友和家人分享 Netflix Party 聚会 URL，您将能够以相同的高清质量观看电影和电视节目。",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "扩展安装",
+      "subHeading": "第一步是下载扩展程序，您可以单击此处进行下载。此外，要下载该扩展程序，您的设备上需要安装 Google Chrome 或 Microsoft Edge 浏览器。该扩展程序与运行 Windows、macOS 和 Chromebook 的设备兼容。只有这样，您才能安装 Netflix Party 扩展来主持和加入观看派对。",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "固定扩展",
+          "answer": "当您看到浏览器地址栏侧面的按钮时，将 Netflix Party 扩展固定到工具栏。如果没有出现，请单击浏览器右上角的拼图图标。在那里您会找到将其固定到工具栏的图标。"
+        },
+        {
+          "id": "2",
+          "question": "要求登录",
+          "answer": "接下来，需要登录您的 Netflix 帐户并创建 Netflix 派对。此外，客人必须拥有自己的 Netflix 订阅才能参加观看派对。"
+        },
+        {
+          "id": "3",
+          "question": "搜索、启动和同步",
+          "answer": "登录后，您可以搜索并选择观看派对的电影，甚至可以开始播放它们。然后在流媒体几秒钟后暂停视频，这是组织观看聚会的关键步骤。"
+        },
+        {
+          "id": "4",
+          "question": "举办 Netflix 派对",
+          "answer": "现在，单击固定在工具栏上的扩展按钮。将出现一个窗口“创建观看派对”，并带有“开始派对”按钮。因此，要举办 Netflix 派对，请单击此按钮。然后复制 Netflix 派对邀请链接并与您最喜欢的人分享。"
+        },
+        {
+          "id": "5",
+          "question": "加入观看派对",
+          "answer": "加入观看聚会的人应首先安装扩展并将其固定到工具栏。然后需要登录他们的 Netflix 帐户并单击聚会主持人发送的邀请 URL 继续操作。"
+        }
+      ]
+    },
+    "three": {
+      "heading": "Netflix 派对特色",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "连接并同步",
+          "answer": "由于 Netflix 以同步方式运营；因此，您可以在全球范围内进行连接和流式传输。此外，你与朋友的距离有多远并不重要。此外，您可以使用该扩展程序与朋友联系并进行流式传输。"
+        },
+        {
+          "id": "t2",
+          "question": "个人资料定制",
+          "answer": "您可以通过多种方式自定义您的个人资料。例如，改进笔名并使用图标为 Netflix 派对和对话赋予个人特征。这些东西会在群聊和观看聚会时出现。"
+        },
+        {
+          "id": "t3",
+          "question": "高清视频质量增强",
+          "answer": "在此功能中，您将体验到高清视频流。此外，每次举办 Netflix 派对时，体验都是一样的。"
+        },
+        {
+          "id": "t4",
+          "question": "全球流媒体",
+          "answer": "Netflix 观看派对在全球范围内开放。在这里，您可以使用 Netflix Party Extension 与朋友和家人一起观看电影和节目，即使他们居住在国外。此外，您还可以举办观看派对，创造难忘的时刻。"
+        },
+        {
+          "id": "t5",
+          "question": "无限聚会",
+          "answer": "您会很高兴听到这个消息，因为您最多可以添加和邀请 100 名成员。但现在与许多人同步比其他任何事情都更值得赞赏。"
+        },
+        {
+          "id": "t6",
+          "question": "快速加载",
+          "answer": "如果我们使用 party 扩展加载它，它会运行得很快。没有缓冲不会造成阻碍和问题，流媒体将流畅且不间断。"
+        },
+        {
+          "id": "t7",
+          "question": "参与和群聊",
+          "answer": "这个在线平台 Netflix Party 还提供实时聊天选项以及观看电影和电视剧的选项。这增强了观众在电影之夜的流媒体体验。"
+        },
+        {
+          "id": "t8",
+          "question": "访问控制",
+          "answer": "如果您是 Netflix 派对的主持人，您将可以使用名为“只有我可以控制”的按钮，这将使您可以控制整个观看派对。这样，您就可以选择一部电影供自己和其他观众观看。但是，此功能无法通过扩展程序控制 Netflix Party 之外的其他观众的设备。"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "经常问的问题",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Netflix Party 不属于订阅范围吗？",
+        "answer": "答案是：是的。 Netflix 派对 100% 免费。"
+      },
+      {
+        "id": "f2",
+        "question": "每个人都需要单独订阅 Netflix 吗？",
+        "answer": "这是最常被问到的问题；每个 Netflix Party 观看者都必须有自己的订阅，即使使用 Netflix Party 扩展也是如此。"
+      },
+      {
+        "id": "f3",
+        "question": "Netflix Party 是否存在安全问题？",
+        "answer": "答案是否定的，因为 Netflix 非常重视用户对安全的担忧。通过派对扩展进行流式传输时不存在安全问题。此外，Netflix 是一个高度安全的平台，任何人都可以使用，而不会影响安全性。"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "让我们知道。",
+    "anyQuestions": "有疑问吗？访问我们的支持页面",
+    "blog": "博客",
+    "popularSearches": "热门搜索",
+    "disclaimer": "免责声明",
+    "disclaimerContent": "Netflix 是 Netflix, Inc. 的商标。本网站",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party 扩展, Netflix Party Chrome 扩展, Watch Party Netflix, 如何做 Netflix Party, 如何使用 Netflix Party, 如何做 Netflix Party, Netflix Watch Party 扩展,"
+    ]
+  }
+}

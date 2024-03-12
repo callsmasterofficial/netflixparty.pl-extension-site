@@ -1,28 +1,30 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Error from '../components/404'
+import { getHome, getallmeta } from '../locale'
 
-export async function getStaticProps() {
+export async function getStaticProps({ locale }) {
+  const allmeta = getallmeta(locale)
+  const home = getHome(locale)
   return {
     props: {
+      home,
+      allmeta,
       meta: {
-        title:
-          'Netflix Party - obejrzyjmy razem | Zainstaluj rozszerzenie teraz',
-        description:
-          'Netflix Party umożliwia oglądanie serwisu Netflix z przyjaciółmi online. Zainstaluj rozszerzenie, aby zsynchronizować odtwarzanie wideo.',
-        keywords:
-          'Netflix Party, Netflix Watch Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, How to do Netflix Party, How to use Netflix Party, How to do a Netflix Party, Netflix Watch Party Extension',
+        title: allmeta.foroforMetatitle,
+        description: allmeta.foroforMetadescription,
+        keywords: allmeta.homeMetakeywords,
         pageUrl: 'https://www.netflixpartys.pl/',
         featuredImage: '/logo.png',
       },
     },
   }
 }
-function error() {
+function error({ home }) {
   return (
     <div className="error_404 ">
       <div>
-        <Navbar />
+        <Navbar installBtn={home.header.installBtn} />
       </div>
       <Error />
     </div>
