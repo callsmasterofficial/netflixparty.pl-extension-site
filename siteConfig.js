@@ -5,9 +5,9 @@ const config = {
   siteId: '62a8661792c68b0d2f1e40a4',
   extLink: {
     chrome:
-      'https://chromewebstore.google.com/detail/teleparty/mcnbfjjgfmgcbljkoaaadoddokbmnlln',
-    firefox: 'https://addons.mozilla.org/addon/netflix-party-firefox/',
-    edge: 'https://microsoftedge.microsoft.com/addons/detail/okcfdfojiahgjgabmheemffikfagmgcb',
+      'https://chromewebstore.google.com/detail/netflix-party/cpliknnmgllhifnomnldjhcambhpdino',
+    firefox: '',
+    edge: 'https://chromewebstore.google.com/detail/netflix-party/cpliknnmgllhifnomnldjhcambhpdino',
   },
   logo: '/logo.png',
   gtagId: 'UA-210083555-22',
