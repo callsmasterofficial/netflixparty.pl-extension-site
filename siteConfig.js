@@ -7,7 +7,7 @@ const config = {
     chrome:
       'https://chromewebstore.google.com/detail/netflix-party/cpliknnmgllhifnomnldjhcambhpdino',
     firefox: '',
-    edge: 'https://chromewebstore.google.com/detail/netflix-party/cpliknnmgllhifnomnldjhcambhpdino',
+    edge: 'https://microsoftedge.microsoft.com/addons/detail/okcfdfojiahgjgabmheemffikfagmgcb',
   },
   logo: '/logo.png',
   gtagId: 'UA-210083555-22',
